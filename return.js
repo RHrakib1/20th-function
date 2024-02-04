@@ -24,10 +24,6 @@ console.log(divoutput);
 
 
 
-
-
-
-
 // example 3 return start short vabe return use kora
 console.log("return 3 exaplme start");
 function hottlePrice(price1, price2) {
@@ -47,3 +43,17 @@ function rakib(n, n1, n2) {
 }
 const fullname = rakib(5, 10, 90);
 console.log(fullname);
+
+
+
+// example this calculation
+console.log("something calculation that");
+function someCalculation(numbers1, numbers2) {
+    const sum = numbers1 + numbers2;
+    const differance = numbers1 - numbers2;
+    const mult = sum * differance;
+    const result = mult / 2;
+    return result;
+}
+const calculationD = someCalculation(40, 35);
+console.log(calculationD);
