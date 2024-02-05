@@ -27,3 +27,9 @@ function isOdd(number1) {
 }
 console.log("the number is", isOdd(13));
 console.log("the number is", isOdd(14));
+
+
+
+
+// const er man paltano jai na kintu kono array ba object er vitor er element gula k paltai te parbo kintu pura array ba obj k paltate parbo na
+// let er man  akdom paltano jai
