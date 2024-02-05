@@ -45,7 +45,6 @@ function oddnumber(numbersss){
         }
     }
     return odd;
-
 }
 const oddnum=[1, 20, 55, 40, 6, 7, 9,19];
 const oddtotal=oddnumber(oddnum);
